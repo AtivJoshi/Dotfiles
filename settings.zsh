@@ -3,4 +3,4 @@ prompt_dir() {
   prompt_segment blue $CURRENT_FG '%15<..<%~%<< %(!.#.% )'
 }
 
-export EDITOR=vim
+export EDITOR=gvim
